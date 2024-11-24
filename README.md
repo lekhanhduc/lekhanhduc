@@ -1,5 +1,24 @@
-# 💫 About Me:
-🌐 I am an IT student at FPT University Danang, majoring in Software Engineering, focusing on back-end engineering.<br><br>🚀 Passionate about building:<br>- Scalable and reliable back-end systems<br>- Intuitive and responsive user interfaces.<br><br>🤝 Skilled in working with modern technologies such as:<br>- Backend: Java, Spring Boot, RESTful API, SQL/NoSql, Kafka<br>- Frontend: React, HTML, CSS, JavaScript, Bootstrap, and jQuery.<br><br>🌱 Continuously improving my expertise in system design and back-end performance optimization, while remaining flexible with front-end technologies.<br><br>⚡ Fun fact: I’m fascinated by the unseen magic—crafting backend systems that ensure everything runs smoothly and efficiently!<br>
+🌐 I am [Your Name], an IT student at FPT University Danang, majoring in Software Engineering and focusing on back-end engineering.
+🎯 Aspiring Backend Developer, eager to contribute to innovative projects and solve complex challenges.
+
+🚀 Passionate about building:
+
+Scalable and reliable back-end systems
+Efficient and maintainable architectures
+Seamless and secure integrations
+🤝 Skilled in working with modern technologies such as:
+
+Backend: Java, Spring Boot, RESTful APIs, SQL/NoSQL, Kafka
+Frontend: React, HTML, CSS, JavaScript, Bootstrap, and jQuery
+Tools & Workflow: Git, Docker, Postman, Jenkins
+🌱 Continuously improving my expertise in:
+
+System design, API development, and microservices architecture
+Performance optimization and security best practices
+Staying adaptable with front-end technologies to deliver cohesive solutions
+⚡ Fun fact: For me, the real art lies in making the backend the invisible hero—ensuring everything runs smoothly and empowering the frontend to shine!
+
+📩 Open to internships or collaboration opportunities where I can enhance my skills and contribute to impactful projects.
 
 
 ## 🌐 Socials:
