@@ -20,7 +20,6 @@
 
 ### 📩 Open To
 - Java Developer
-- Technical collaborations
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100028989917543) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/02_10_003/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@lekhanhduc212) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@backendjava212) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lekhanhduccc@gmail.com) 
