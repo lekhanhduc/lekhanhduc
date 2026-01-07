@@ -1,6 +1,26 @@
 # 💫 About Me:
-🚀 Le Khanh Duc | Aspiring Backend Developer<br><br>🔹 IT Student @ FPT University Danang | Major: Software Engineering<br>🔹 Passionate about scalable, reliable, and secure backend systems<br>🔹 Skilled in Java, Spring Boot, RESTful APIs, SQL/NoSQL, Kafka, Redis<br>🔹 Experienced with Elasticsearch, Kibana, Logstash for logging & analytics<br>🔹 Proficient in Angular, React, HTML, CSS, JavaScript, Bootstrap, jQuery<br>🔹 Hands-on with Git, Docker, Postman<br><br>💡 Always improving: System design, API development & microservices<br>⚡ Fun fact: Backend is the invisible hero—ensuring everything runs seamlessly!<br><br>📩 Open to internships & collaborations!
+## 🚀 Le Khanh Duc | Java Backend Engineer
 
+- 🎓 **Software Engineering Graduate** — FPT University Danang  
+- 💻 Backend-focused engineer passionate about **scalable, reliable, and secure systems**
+- ☕ Strong expertise in **Java, Spring Boot, RESTful API development**
+- 🗄️ Experience with **SQL / NoSQL**, **Kafka**, **Redis**
+- 📊 Hands-on with **Elasticsearch, Logstash, Kibana (ELK Stack)** for logging & analytics
+- ☁️ Cloud-oriented development with **AWS** (deployment, scalability, monitoring)
+- 🎨 Frontend experience with **React & Next.js** for full-stack collaboration
+- 🛠️ Proficient in **Git, Docker, Postman**
+
+### 💡 Currently Improving
+- System Design  
+- Microservices Architecture  
+- Cloud-native & distributed systems  
+
+### ⚡ Fun Fact
+> Backend is the invisible engine that powers seamless user experiences.
+
+### 📩 Open To
+- Java Developer
+- Technical collaborations
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100028989917543) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/02_10_003/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@lekhanhduc212) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@backendjava212) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lekhanhduccc@gmail.com) 
