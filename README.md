@@ -12,7 +12,6 @@
 
 ### 💡 Currently Improving
 - System Design  
-- Microservices Architecture  
 - Cloud-native & distributed systems  
 
 ### ⚡ Fun Fact
